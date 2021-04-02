@@ -1,0 +1,15 @@
+C:\Users\wolfr\source\repos\XML\XML\bin\Debug\XML.exe.config
+C:\Users\wolfr\source\repos\XML\XML\bin\Debug\XML.exe
+C:\Users\wolfr\source\repos\XML\XML\bin\Debug\XML.pdb
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\MainWindow.g.cs
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\App.g.cs
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML_MarkupCompile.cache
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML_MarkupCompile.lref
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\MainWindow.baml
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.g.resources
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.exe
+C:\Users\wolfr\source\repos\XML\XML\obj\Debug\XML.pdb
